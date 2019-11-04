@@ -3,7 +3,9 @@
 
 ## 效果图
 
+
 ![](https://github.com/cnlisn/SwipePanel/blob/master/Picture/screenshot-1572856578012.jpg)
+
 
 ## 代码中动态使用
 
