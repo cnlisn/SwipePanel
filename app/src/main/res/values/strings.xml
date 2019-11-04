@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SwipePanel</string>
+    <string name="swipepanel">SwipePanel侧滑返回动态使用</string>
+    <string name="swipepanel2">侧滑返回静态使用</string>
+</resources>
